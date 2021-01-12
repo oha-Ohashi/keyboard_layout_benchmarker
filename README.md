@@ -3,5 +3,5 @@ Keyboard layout benchmarker
 
 ex.
 ----
-	$ python3 klbm.py data/sample.txt keymaps/qwerty.json data/cost.json
+	$ python3 klbm2.py scripts/ipsum.txt 4x10 qwerty
 
